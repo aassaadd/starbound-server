@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER Michael Lawrence <me@mikelawrence.co>
+MAINTAINER Andrew Kener <andrew@kener.org>
 
 VOLUME ["/starbound"]
 
