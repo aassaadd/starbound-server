@@ -17,6 +17,8 @@ You must turn off Steam Guard for this image to work. If someone has a good idea
 
 The Starbound game files will be downloaded via steamcmd into the starbound directory. This is to ensure persistence.
 
+Forked from michaellawrence/docker-starbound-server
+
 ##### Unstable
 
 Adding the env variable `STARBOUND_UNSTABLE=true` will run the unstable Starbound version.
