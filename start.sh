@@ -9,6 +9,6 @@ fi
 
 /steamcmd/steamcmd.sh +@ShutdownOnFailedCommand 1 +@NoPromptForPassword 1 +login $STEAM_USERNAME $STEAM_PASSWORD $STEAMGUARD_CODE +force_install_dir /starbound/ +app_update $APP_ID +quit
 
-cd /starbound/linux64
+cd /starbound/linux
 
 ./starbound_server
